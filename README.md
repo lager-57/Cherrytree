@@ -224,4 +224,4 @@ CherryTree is a full free version of the software, which includes all features a
 Dive in and start organizing your notes effortlessly with CherryTree today! Download your free copy now!
 
 ---
-**Last updated:** 2026-10-12 21:37:09 UTC
+**Last updated:** 2026-10-13 02:53:20 UTC
